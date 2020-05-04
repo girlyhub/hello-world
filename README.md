@@ -1,6 +1,6 @@
 # hello-world
 something simple l
-Hi my name is jeong girl Park!
+Hi my name is Park!
 nice to meet you!
 I want to learn useful coding 
 github can be help me to do this!
